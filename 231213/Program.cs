@@ -8,5 +8,15 @@ namespace _231213
         {
             Console.WriteLine("Hello World!");
         }
+
+        interface Driveavle
+        {
+            void Drive();
+        }
+
+        public class venom : 
+        {
+
+        }
     }
 }
